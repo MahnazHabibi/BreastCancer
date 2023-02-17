@@ -1,16 +1,14 @@
-BreastCancer
 
-A Novel Machine Learning Method for Mutational Analysis to Identifying Driver Genes in Breast Cancer
+# A Novel Machine Learning Method for Mutational Analysis to Identifying Driver Genes in Breast Cancer
 
-Description:
+> Description: This repository contains the data and MATLAB code for the "Identifying driver genes associated with breast cancer with machine learning algorithms".
 
-This repository contains the data and MATLAB code for the "Identifying driver genes associated with breast cancer with machine learning algorithms":
-
-Data set:
+**Data set:**
 
 File "Benchmark.xlsx" contains a list of driver genes as benchmark sets.
 
-Algorithms:
+
+**Algorithms:**
 
 File "Feature_Matrix.m" is the MATLAB script to calculate topological and biological features for mutated genes.
 
@@ -21,10 +19,11 @@ File "MC_BCM.m" is the the MATLAB script to find the clusters with maximum densi
 To run the machine learning algorithm, follow the "Read_me.txt" steps.
 
 
-Link of paper:
+**Link of paper:**
 
 
-Contact:
+
+**Contact:**
 
 Please do not hesitate to contact me if you have any question:
 
