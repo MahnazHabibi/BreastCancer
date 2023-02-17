@@ -20,6 +20,10 @@ File "MC_BCM.m" is the the MATLAB script to find the clusters with maximum densi
 
 To run the machine learning algorithm, follow the "Read_me.txt" steps.
 
+
+Link of paper:
+
+
 Contact:
 
 Please do not hesitate to contact me if you have any question:
