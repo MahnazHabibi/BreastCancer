@@ -37,7 +37,7 @@ The output file is "SPNFSR_Score" and contains the score value for each feature.
 
 =================================================================
 
-#. Monte Carlo algorithm for breast cancer driver module (MC-BCM ).
+# Monte Carlo algorithm for breast cancer driver module (MC-BCM ).
 
 Version 1.0
 
